@@ -1,5 +1,7 @@
 # 🤖 Llama-3 Java DSA Mentor
 
+![App Demo](demo.png)
+
 **Live Demo:** [Try the AI Mentor Here](https://huggingface.co/spaces/vivek387t8238rbhe/llama-3-java-dsa-mentor)
 *(Note: Runs on a free CPU, please allow ~45-60s for inference)*
 
